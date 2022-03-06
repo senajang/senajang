@@ -7,8 +7,11 @@
 ## :star: My Future Goal
 ### I want to be a creative & active software engineer
 
-## :exclamation: I am doing...
-### 씌움 (Umbrella Rent System) for Android
+## :exclamation: I am developing
+### '씌움' (Umbrella Rent System) for Android
+- 충북대학교 내에서 보증금을 통해 공유 우산을 대여를 할 수 있도록 해주는 우산 대여어플입니다.
+### 'Peacock' 내 핸드폰 안의 옷장 for Android/IOS 
+- 옷장안에 어떤 옷이 있었지? 내일 뭐입지?에 대한 고민을 덜어주고 AI 코디 추천, 옷장 도감을 통한 패션 길라잡이 역할을 해주는 어플리케이션입니다. 
 
 ## :muscle: Skills
 ### Platforms&Languages
